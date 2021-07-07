@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hello world! 👋
+
+### I’m currently working on...
+- 🏁 Creating a full stack web application geared towards helping runners train for races
+- 🔬 Researching how to improve performance and decrease latency for NoSQL systems (Facebook's RocksDB)
+- 🧰 Developing and maintaining our lab's website (McGill Data Intensive Storage and Computer Systems Lab)
+- ✨ Redesigning a new and improved version of my personal site!
+
+### I’m currently learning how to...
+- 🗺️ Navigate large codebases efficiently
+- 🖥️ Write cleaner code and improve organizing files & documentation
+- 🎨 Use Figma for designing and prototyping (specifically logo design)
+- 🏃‍♂️ Run under a 8'00" mile consistently
+
+### Feel free to look around!
 
 <!--
 **BriannHu/BriannHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
