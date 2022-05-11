@@ -1,6 +1,22 @@
 ## Hello world! 👋
 
 ### I’m currently working on...
+- ⭐ Improving an internal Go-based service at DRW's Montreal office
+- 🌲 Developing a mobile app as part of Hack4Impact McGill to help volunteers track and reduce food waste
+- 🚀 Improving my problem solving and algorithmic skills with Leetcode
+- 📈 Redesigning and upgrading my personal site!
+
+### I’m currently learning how to...
+- 🖥️ Use Go and take advantage of its speed and in built concurrency
+- 📱 Perform the different steps of the software development cycle
+- 📚 Write both cleaner code and better documentation
+- 🏃‍♂️ Run under a 8'00" mile consistently
+
+### Feel free to look around!
+
+
+<!-- ### I’m currently working on...
+Updated May 11, 2022
 - ⭐ Implementing full-stack features on CloudOps's platform - CloudMC
 - 🌲 Developing a mobile app as part of Hack4Impact McGill to help volunteers track and reduce food waste
 - 🚀 Improving my problem solving and algorithmic skills with Leetcode and Kattis
@@ -10,9 +26,8 @@
 - 🖥️ Use Java Springboot and Vue.js effectively
 - 📱 Do mobile development using Flutter and React Native
 - 📚 Write both cleaner code and better documentation
-- 🏃‍♂️ Run under a 8'00" mile consistently
+- 🏃‍♂️ Run under a 8'00" mile consistently -->
 
-### Feel free to look around!
 
 <!--
 Updated October 13, 2021
